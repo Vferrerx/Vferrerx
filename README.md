@@ -58,7 +58,7 @@
   </tr>
     </tr>
       <td>🐦</td>
-    <td><a href="https://github.com/Vferrerx/flappy_luke"><b>flappy_luke</b></a><br/>Jogo arcade 2D inspirado no clássico Flappy Bird.</td>
+    <td><b>flappy_luke</b></a><br/>Jogo arcade 2D inspirado no clássico Flappy Bird.</td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
   </tr>
 
