@@ -67,33 +67,6 @@
   </tr>
 </table>
 
-> 🔒 Torne um repositório público no GitHub para que ele ganhe um card com link clicável aqui.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=Vferrerx&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vferrerx&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vferrerx&theme=react-dark&hide_border=true&area=true" alt="Gráfico de atividade" />
-</p>
-
-<details>
-<summary>📈 Ver linguagens mais usadas e estatísticas detalhadas</summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vferrerx&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vferrerx&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-</details>
-
 ---
 
 ### 📫 Como me encontrar
