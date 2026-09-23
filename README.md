@@ -43,17 +43,17 @@
 
   <tr>
     <td>📝</td>
-    <td><b>Formly</b> 🔒 <i>(privado)</i><br/>Crie formulários que as pessoas adoram responder.</td>
+    <td><b>Formly</b> <br/>Crie formulários que as pessoas adoram responder.</td>
     <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></td>
   </tr>
   <tr>
     <td>📅</td>
-    <td><b>prog_generator</b> 🔒 <i>(privado)</i><br/>Sistema para automatizar a criação de programações de monitoramento logístico.</td>
+    <td><b>prog_generator</b> <br/>Sistema para automatizar a criação de programações de monitoramento logístico.</td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
   </tr>
   <tr>
       <td>🗂️</td>
-    <td><b>archivium</b> 🔒 <i>(privado)</i><br/>Sistema para catalogação, arranjo e gestão de acervos fotográficos.</td>
+    <td><b>archivium</b> <br/>Sistema para catalogação, arranjo e gestão de acervos fotográficos.</td>
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></td>
   </tr>
     </tr>
