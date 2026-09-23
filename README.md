@@ -11,10 +11,10 @@
 ### 🚀 Sobre mim
 
 <table>
-<tr><td>📊</td><td>Atuo com <b>Análise de Dados</b> e <b>Ciência da Informação</b></td></tr>
-<tr><td>📈</td><td>Especialista em <b>Dashboards e relatórios em Power BI</b></td></tr>
-<tr><td>🌐</td><td>Também desenvolvo em <b>Desenvolvimento Web</b></td></tr>
-<tr><td>🧮</td><td>Domínio avançado de <b>Excel</b> para automação e análise</td></tr>
+<tr><td>📊</td><td><b>Análise de Dados</b> e <b>Ciência da Informação</b></td></tr>
+<tr><td>📈</td><td><b>Dashboards e relatórios em Power BI</b></td></tr>
+<tr><td>🌐</td><td><b>Desenvolvimento Web</b></td></tr>
+<tr><td>🧮</td><td><b>Excel</b> para automação e análise</td></tr>
 <tr><td>🏢</td><td>Atualmente na <b>Martin Brower Brazil</b></td></tr>
 <tr><td>📍</td><td>São Paulo - SP</td></tr>
 <tr><td>🔗</td><td><a href="https://www.linkedin.com/in/victor-ferreira-4475b4325">LinkedIn</a></td></tr>
