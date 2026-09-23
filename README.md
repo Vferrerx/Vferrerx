@@ -57,11 +57,6 @@
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></td>
   </tr>
     </tr>
-      <td>🌾</td>
-    <td><a href="https://github.com/Vferrerx/cc_tracker"><b>cc_tracker</b></a><br/>Checklist interativo do Centro Comunitário de Stardew Valley, com progresso salvo automaticamente no navegador.</td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></td>
-  </tr>
-  <tr>
       <td>🐦</td>
     <td><a href="https://github.com/Vferrerx/flappy_luke"><b>flappy_luke</b></a><br/>Jogo arcade 2D inspirado no clássico Flappy Bird.</td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
